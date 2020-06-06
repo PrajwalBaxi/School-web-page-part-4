@@ -1,0 +1,56 @@
+
+.aa{
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+
+.a {
+    margin-top: 50px;
+     display:flex;
+    justify-content:space-between; 
+    font-style: oblique; 
+   
+}    
+
+.b{
+    margin-top: -90px;
+    margin-left: 50px;
+       display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+  font-style: oblique;
+
+}
+
+
+
+.img{
+    margin-top: 50px;
+}
+.t{
+    margin-top: -1000px;
+}
+
+.i{
+    margin-top: 80px;
+}
+
+.f{
+    margin-top: -280px;
+    margin-left: 1200px ;
+}
+
+.y{
+    margin-top: 80px;
+    margin-left: 1180px ;
+}
+
+a:link{
+    color: darkblue;
+}
+
+a:visited{
+    color:black;
+}
+
